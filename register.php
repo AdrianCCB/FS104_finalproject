@@ -186,7 +186,7 @@ if(isset($_POST['register'])){
     
     <?php 
     if($isSuccess){
-        alert1('success', 'Thanks for registering', '', false, '1500', 'index.php'); 
+        alert1('success', 'Thanks for registering', '', false, '1400', 'index.php'); 
     }
         
     if($userCount == 1){
