@@ -360,7 +360,7 @@ if(isLoggedIn()){
     <!-- Sweetalert -->
     <?php
         if(password_verify($formPassword, $userPassword)){
-            alert1('success', 'Welcome back', '', false, '1500', 'index.php');
+            alert1('success', 'Welcome back', '', false, '1400', 'index.php');
         }
     ?>
 
