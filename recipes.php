@@ -3,7 +3,7 @@ include('core/config.php');
 include('core/db.php');
 include('core/functions.php');
 
-$formEmail = $formPassword = "";
+$formEmail = $formPassword = $userPassword = "";
 $formEmailError = $formPasswordError = "";
 $formEmailPass = $formPasswordPass = "";
 
