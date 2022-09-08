@@ -164,7 +164,7 @@ if(isLoggedIn()){
                             <p class="card-text"><?php echo $recipeDescription ?></p>
                             <div class="mt-auto">
                                 <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                                <i class="fas fa-heart fa-lg"></i>
+                                <i class="fa-regular fa-heart"></i>
                             </div>
                         </div>
                     </div>

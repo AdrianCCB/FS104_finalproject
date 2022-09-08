@@ -180,7 +180,7 @@ if(isLoggedIn()){
                         <h4>How much is the class packages?</h4>
                         <button type="button" class="question-btn">
                             <span class="plus-icon">
-                                <i class="far fa-plus-square"></i>
+                                <i class="fa-regular fa-square-plus"></i>
                             </span>
                             <span class="minus-icon">
                                 <i class="far fa-minus-square"></i>
@@ -203,7 +203,7 @@ if(isLoggedIn()){
                         <h4>Do you have class for 1 on 1?</h4>
                         <button type="button" class="question-btn">
                             <span class="plus-icon">
-                                <i class="far fa-plus-square"></i>
+                                <i class="fa-regular fa-square-plus"></i>
                             </span>
                             <span class="minus-icon">
                                 <i class="far fa-minus-square"></i>
@@ -226,7 +226,7 @@ if(isLoggedIn()){
                         <h4>Where the class will be held?</h4>
                         <button type="button" class="question-btn">
                             <span class="plus-icon">
-                                <i class="far fa-plus-square"></i>
+                                <i class="fa-regular fa-square-plus"></i>
                             </span>
                             <span class="minus-icon">
                                 <i class="far fa-minus-square"></i>
@@ -249,7 +249,7 @@ if(isLoggedIn()){
                         <h4>Are there any sales on going?</h4>
                         <button type="button" class="question-btn">
                             <span class="plus-icon">
-                                <i class="far fa-plus-square"></i>
+                                <i class="fa-regular fa-square-plus"></i>
                             </span>
                             <span class="minus-icon">
                                 <i class="far fa-minus-square"></i>

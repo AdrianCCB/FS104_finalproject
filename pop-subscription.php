@@ -1,7 +1,7 @@
 <section id="popup">
     <div class="container-fluid popup-container shadow-lg p-3 mb-5">
       <div>
-        <i class="far fa-times-circle close-popup fa-lg"></i>
+        <i class="fa-regular fa-circle-xmark close-popup"></i>
         <h1>Subscribe</h1>
         <p class="pb-1 border-bottom">Get the latest updates</p>
       </div>
