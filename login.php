@@ -7,7 +7,7 @@ if(isLoggedIn()){
     header("Location: " . SITE_URL . "index.php"); //redirect to dashboard
 }
 
-$formEmail = $formPassword = "";
+$formEmail = $formPassword = $userPassword = "";
 $formEmailError = $formPasswordError = "";
 $formEmailPass = $formPasswordPass = "";
 
